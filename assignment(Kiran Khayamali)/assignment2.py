@@ -65,5 +65,8 @@ def register(flag):
             except json.JSONDecodeError:
                 users = [] 
 
+    else:
+        print("Choose 1 or 2 to run the program:")
+
 user_input = int(input("Enter 1 to sign up and 2 to sign in :"))
 register(user_input)

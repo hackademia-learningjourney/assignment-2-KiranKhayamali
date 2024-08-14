@@ -1,0 +1,12 @@
+[
+    {
+        "Username": "test",
+        "Password": "test",
+        "Mobile Number": 124
+    },
+    {
+        "Username": "anonymous",
+        "Password": "pass",
+        "Mobile Number": 1234567890
+    }
+]
